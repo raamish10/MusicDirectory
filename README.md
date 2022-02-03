@@ -4,7 +4,7 @@ Demo: https://music-directory-rn.herokuapp.com/
 
 <h3>Features</h3>
 <h4>Home Page</h4>
-<p>The application uses a data pipeline that implements the ETL process to extract, transform, and load the data using Apple's iTunes Search API on to the webpage</p>
+<p>This Vue.js application was built using Nuxt, an open source framework that makes web development simple and powerful. The app uses a data pipeline that implements the ETL process to extract, transform, and load the data using Apple's iTunes Search API on to the webpage. </p>
 <p align="center">
 <img src="https://github.com/raamish10/MusicDirectory/blob/main/assets/images/image1.png" alt="loading_screen" width="700px" >
 </p>
@@ -22,6 +22,6 @@ Demo: https://music-directory-rn.herokuapp.com/
 
   <h3>License</h3>
 <p>
-    Developed by Raamish N, Under Creative Commons<<br><br>
+    Developed by Raamish N, Under Creative Commons<br><br>
 </p>
 
