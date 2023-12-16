@@ -1,6 +1,5 @@
 <h1 align="center">MusicDirectory</h1>
 <h3 align="center"><i>An online Album Directory Browser App made using NuxtJS<i></h3>
-Demo: https://music-directory-rn.herokuapp.com/
 
 <h3>Features</h3>
 <h4>Home Page</h4>
